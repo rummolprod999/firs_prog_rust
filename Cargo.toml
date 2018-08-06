@@ -1,0 +1,9 @@
+[package]
+name = "parser"
+version = "0.1.0"
+authors = ["rummolprod999 <rummolprod999@gmail.com>"]
+
+[dependencies]
+reqwest = "0.8.7"
+select = "0.4.2"
+mysql = "*"
